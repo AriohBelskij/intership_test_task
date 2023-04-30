@@ -41,5 +41,5 @@ For example, you can use this syntax tree:
 ```
 
 ### 
-![Example of response](https://ibb.co/J3sJzVV)
+![Example of response](https://i.ibb.co/cg6yHHj/2023-04-30-04-14-27.png)
 
