@@ -9,5 +9,5 @@ tree_router = APIRouter()
 async def paraphrase_tree(tree: str, limit: int = 20) -> dict:
     try:
         return prepare_response(tree, limit)
-    except Exception:
+    except ValueError:
         raise HTTPException(status_code=400, detail="Invalid syntax Tree")

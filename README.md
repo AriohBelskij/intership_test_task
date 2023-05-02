@@ -1,4 +1,4 @@
-# Endpoint for rephrases ur syntax tree!
+# Endpoint for rephrases your syntax tree!
 
 ## Description
 This endpoint rephrases your current sentence by switching the NP (noun phrase) with each other without losing meaning,
@@ -9,7 +9,7 @@ Write in terminal
 ```
 git clone https://github.com/AriohBelskij/intership_test_task.git
 ```
-Open ur project and write in terminal
+Open your project and write in terminal
 
 ``` 
 python -m venv venv
